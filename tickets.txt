@@ -1,0 +1,4 @@
+name from to date/time flight seat cls gate
+Anderson;EMA;LCW;05/20/2020 04:30;EasyJet 1048;3B;P;27
+Alonzo;BBP;LCW;05/20/2020 05:35;British Airways 7483;10B;S;10
+Lance;HAW;LCW;05/20/2020 06:22;TUI Airways 9366;6A;C;47
